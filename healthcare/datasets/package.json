@@ -18,7 +18,7 @@
   "dependencies": {
     "googleapis": "^40.0.0",
     "uuid": "^3.3.2",
-    "yargs": "^13.0.0"
+    "yargs": "^15.0.1"
   },
   "cloud-repo-tools": {
     "requiresKeyFile": true,
