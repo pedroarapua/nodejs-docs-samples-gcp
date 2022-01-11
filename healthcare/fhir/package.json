@@ -16,10 +16,10 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "googleapis": "^40.0.0",
+    "googleapis": "^49.0.0",
     "uuid": "^3.3.2",
     "yargs": "^13.0.0",
-    "gtoken": "^3.0.0",
+    "gtoken": "^5.0.1",
     "request": "^2.87.0",
     "request-promise": "^4.2.2"
   },
