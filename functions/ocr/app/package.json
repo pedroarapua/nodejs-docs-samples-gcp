@@ -15,10 +15,10 @@
     "test": "mocha test/*.test.js --timeout=20000"
   },
   "dependencies": {
-    "@google-cloud/pubsub": "^0.28.1",
-    "@google-cloud/storage": "^2.3.3",
-    "@google-cloud/translate": "^3.0.0",
-    "@google-cloud/vision": "^0.25.0",
+    "@google-cloud/pubsub": "^2.0.0",
+    "@google-cloud/storage": "^5.0.0",
+    "@google-cloud/translate": "^6.0.0",
+    "@google-cloud/vision": "^2.0.0",
     "safe-buffer": "^5.1.2"
   },
   "devDependencies": {
