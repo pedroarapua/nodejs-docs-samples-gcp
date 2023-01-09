@@ -16,7 +16,7 @@
     "test": "mocha test/*.test.js --timeout=60000"
   },
   "dependencies": {
-    "puppeteer": "^1.6.2"
+    "puppeteer": "^3.0.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "^3.3.0",
