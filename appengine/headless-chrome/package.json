@@ -21,7 +21,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.16.3",
-    "puppeteer": "^1.2.0"
+    "puppeteer": "^3.0.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "^3.3.0",
