@@ -15,8 +15,8 @@
     "test": "mocha test/*.test.js --timeout=20000"
   },
   "dependencies": {
-    "@google-cloud/logging": "^4.4.0",
-    "@google-cloud/monitoring": "^0.7.1"
+    "@google-cloud/logging": "^5.0.0",
+    "@google-cloud/monitoring": "^1.0.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "^3.3.0",
